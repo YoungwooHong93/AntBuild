@@ -23,7 +23,7 @@ public class VOServiceTest {
 		System.out.println("** AntBuild Test **");
 		System.out.println("** VOService 출력 =>" +service.getMemberVO());
 		
-		
+		System.out.println("** commit Test code 추가함");
 	} //main
 
 } //class
